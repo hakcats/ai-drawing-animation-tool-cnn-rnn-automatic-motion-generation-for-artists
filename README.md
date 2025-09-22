@@ -61,47 +61,47 @@ Perfect for solo creators, small teams, and anyone looking to animate without th
 <table>
     <tbody>
         <tr>
-            <td>
+            <td width="33.33%">
                 <video src="https://github.com/user-attachments/assets/b38f1570-e3fd-4f5f-8c3c-56977809b0d5" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
-            <td>
+            <td width="33.33%">
                 <video src="https://github.com/user-attachments/assets/04a9ff7c-17a1-4820-8563-5b56aa427160" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
-            <td>
+            <td width="33.33%">
                 <video src="https://github.com/user-attachments/assets/e1c2c369-e39e-4756-a9d4-dfbecf1ef929" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
         </tr>
         <tr>
-            <td>
+            <td width="33.33%">
                 <video src="https://github.com/user-attachments/assets/36959994-6eb5-4516-be79-ea79ef20ac4b" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
-            <td>
+            <td width="33.33%">
                 <video src="https://github.com/user-attachments/assets/e5c58be4-ff00-4f1c-b1c1-659f0d9af6f4" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
-            <td>
+            <td width="33.33%">
                 <video src="https://github.com/user-attachments/assets/86305319-dcdd-41ce-bcf1-13e848a5c9c7" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
         </tr>
         <tr>
-            <td></td>
-            <td>
+            <td width="33.33%"></td>
+            <td width="33.33%">
                 <video src="https://github.com/user-attachments/assets/a2a68544-8f20-46b2-a2c6-d5739d1d016d" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
-            <td></td>
+            <td width="33.33%"></td>
         </tr>
     </tbody>
 </table>
